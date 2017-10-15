@@ -1,0 +1,20 @@
+1 Architektura:
+	- Mobilna Aplikacja (Java - Android Studio)
+	- Chmurowa Baza Danych + REST Serwis (Firebase)
+2 Funkcjonalnośc:
+	- Logowanie w aplikacji użytkownika (klienta/kierowcy)
+	- Pobieranie trasy autobusu
+	- Zmienianie trasy (dodanie dodatkowych punktów na mapie ?)
+	- Wyświetlanie bierzącej lokalizacji
+	- Kontaktowanie się z kierowcą
+3 Interfejs:
+	- Strona logowania (Czy warto trzymać konta klientów czy pozwolić im na anonimowe wejście ?)
+	- Strona z mapą, gdzie będzie bierząca lokalizacja oraz trasa   
+	- Strona dodania punktu do trasy ?
+	- Strona kontaktu (protokół - facebook, notyfikacja androidowa?)
+	- Strona wiadomości 
+4 Narzędzia:
+	Android Studio, Java, Firebase, Integracja z Google Maps, Protokół komunikacji-?
+5 Dane:
+	- Konta użytkowników (Klienci ?, Kierowcy, Administratorzy)
+	- Punkty na mapie
